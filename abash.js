@@ -14,12 +14,10 @@ var abash = /** @class */ (function () {
             this.decipher_array = [];
             this.cipher_array = [];
             for (var i = 0, chr = void 0; i < cipher.length; i++) {
-                var c = cipher.charAt(i);
-                this.cipher_array.push(c);
-            }
-            for (var i = 0, chr = void 0; i < decipher.length; i++) {
-                var c = decipher.charAt(i);
-                this.decipher_array.push(c);
+                //    let c = cipher.charAt(i);
+                //    let d = decipher.charAt(i);
+                this.cipher_array.push(cipher.charAt(i));
+                this.decipher_array.push(decipher.charAt(i));
             }
         }
     }
