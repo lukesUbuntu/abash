@@ -1,0 +1,19 @@
+{
+  "name": "abash",
+  "version": "1.0.0",
+  "description": "substituting the letters of an alphabet with ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukesUbuntu/abash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukesUbuntu/abash/issues"
+  },
+  "homepage": "https://github.com/lukesUbuntu/abash#readme"
+}
